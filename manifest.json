@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "AlphaStar",
+    "description": "A Chrome Extension for gaining an advantage on online learning platforms.",
+    "version": "0.1",
+    "action": {
+      "default_popup": "popup/popup.html",
+      "default_icon": "images/icon-128.png"
+    }
+  }
